@@ -1,8 +1,5 @@
 
-#Erick Rose Instructor: 
-#Kathryn A. Kozak
-#Introduction to Statistics MAT 160-02
-#Sep 09, 2017
+# EER .R file HW STAT_CCC.FA17
 
 #HW CH3.1 - 1,3,5,7,8,9,10,11,13
 

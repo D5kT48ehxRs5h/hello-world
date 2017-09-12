@@ -1,5 +1,5 @@
 
-# EER .R file HW STAT_CCC.FA17
+# EER .R file HW STAT_FA17
 
 #HW CH3.1 - 1,3,5,7,8,9,10,11,13
 
